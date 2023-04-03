@@ -1,7 +1,7 @@
 <?php
 ob_start();
 require_once("includes/dbsmain.inc.php"); 
-
+//common node
 ?>
 <?php
 if(!empty($_SESSION['userLoginId'])){
