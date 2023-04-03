@@ -3,7 +3,7 @@
 <?php
 $flag_mail=0;
  if(isset($_POST['Enq'])){
-
+//header  files not
   @extract($_POST);
   
     /*
