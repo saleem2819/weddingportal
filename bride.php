@@ -128,6 +128,7 @@
           <script>
             $(document).ready(function() {
               var owl = $('.owl-carousel');
+		    
               owl.owlCarousel({
                 items: 4,
                 loop: true,
@@ -147,6 +148,7 @@
         </div>
       </div>
     </section>
+<div>
 	  <!------------->
     <script src="assets/vendors/highlight.js"></script>
     <script src="assets/js/app.js"></script>
